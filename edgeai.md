@@ -1,5 +1,7 @@
 # EdgeAI Workshop
 
+https://rustconf.com/workshops/
+
 ## Device Setup
 
 * Setup board
